@@ -4,7 +4,9 @@ A Flask-based web application that provides a chat interface for interacting wit
 
 ## Screenshot
 
-![AI_RIFAI Chat Interface](screenshot.png)
+
+![alt text](screenshot.png)
+
 
 ## Features
 
