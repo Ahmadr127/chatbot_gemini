@@ -2,6 +2,10 @@
 
 A Flask-based web application that provides a chat interface for interacting with Google's Gemini AI API.
 
+## Screenshot
+
+![AI_RIFAI Chat Interface](screenshot.png)
+
 ## Features
 
 - Clean, responsive dark mode chat interface
