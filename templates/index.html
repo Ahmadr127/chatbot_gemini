@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI_RIFAI - Professional Gemini Chat Interface</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>AI_RIFAI</h1>
+            <p>Advanced AI Assistant Powered by Google Gemini</p>
+        </header>
+        
+        <div class="chat-container">
+            <div id="chat-history"></div>
+            <div class="input-area">
+                <textarea 
+                    id="message-input" 
+                    placeholder="Message AI_RIFAI..." 
+                    rows="1"
+                ></textarea>
+                <button id="send-button">Send</button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="{{ url_for('static', filename='main.js') }}"></script>
+</body>
+</html>
