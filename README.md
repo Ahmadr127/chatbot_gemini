@@ -5,7 +5,7 @@ A Flask-based web application that provides a chat interface for interacting wit
 ## Screenshot
 
 
-![alt text](screenshot.png)
+![Dokumentasi System](image.png)
 
 
 ## Features
